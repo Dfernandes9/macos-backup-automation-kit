@@ -1,0 +1,11 @@
+{
+  "time_machine_destination": "/Volumes/BackupDrive",
+  "time_machine_exclude_paths": [
+    "~/Downloads",
+    "~/Movies"
+  ],
+  "icloud_backup_dest": "/Volumes/BackupDrive/iCloud_Backup",
+  "icloud_source_dir": "~/Library/Mobile Documents/com~apple~CloudDocs",
+  "imazing_backup_dir": "/Volumes/BackupDrive/iMazing_Backups",
+  "device_udids": ["<UDID1>", "<UDID2>"]
+}
